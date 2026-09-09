@@ -6,6 +6,9 @@ A modern, fully responsive AI productivity platform landing page built as a Fron
 - **Live URL:** [https://nova-landing-o5sc.vercel.app]
 - **Repository:** [https://github.com/arnaldo7070/nova-landing.git]
 
+## 📸 Screenshots
+![NOVA Landing Page Preview](public/nova-screenshot.png)
+
 ## ✨ Features
 - **13 Complete Sections:** Navigation bar, Hero dashboard mockup, Company logos, 6 Core features, Product overview, How it works, Animated stats, Department use cases, 3 Testimonials, 3 Pricing tiers with monthly/annual toggle, 5 FAQ accordions, Final CTA with newsletter validation, and Footer.
 - **Dynamic Interactions:** Mobile hamburger menu, smooth section scrolling, FAQ accordion dropdowns, and interactive demo modal.
